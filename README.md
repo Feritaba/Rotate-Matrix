@@ -1,2 +1,2 @@
 # Rotate-Matrix
-This function rotates matrix 90 degrees
+This function rotates matrix 90 degrees.
